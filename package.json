@@ -1,0 +1,15 @@
+{
+  "name": "all_done",
+  "version": "1.0.0",
+  "description": "A task manager to help you get all tasks all done",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "task",
+    "manager"
+  ],
+  "author": "Dollars Kenthouk",
+  "license": "ISC"
+}
